@@ -1,0 +1,5 @@
+MEMBERX	SUMMARY	This is a journey into sound
+MEMBER1	INTRO	Your security is very important to us	12/31/2018 5:32:22
+MEMBER2	NEWS	Your new client packet has been put into the mail
+MEMBER1	INTRO	Your client setup is now complete	12/31/2018 12:33:22
+MEMBER3	INTRO	Please contact your advisor for an important message 

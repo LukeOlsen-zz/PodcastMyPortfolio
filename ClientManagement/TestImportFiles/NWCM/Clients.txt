@@ -1,0 +1,2 @@
+GROUPID1	CLIENTID1	John Smith	jsmith@google.com
+GROUPID1	CLIENTID2	Adam Smith	asmith@google.com

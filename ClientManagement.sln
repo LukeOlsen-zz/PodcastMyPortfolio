@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientManagement", "ClientManagement\ClientManagement.csproj", "{633811A5-8377-46D8-BF5F-3A70B80F62D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientManagementTest", "ClientManagementTest\ClientManagementTest.csproj", "{7D5DDBE0-A397-419E-8617-08C3AACDA1F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientManagement.Models", "ClientManagement.Models\ClientManagement.Models.csproj", "{5EA7C312-435D-4CAE-AF34-2FA5A3038554}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientManagement.Services", "ClientManagement.Services\ClientManagement.Services.csproj", "{FAC7580B-3965-48DF-8B57-2DEDDD4AF7A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodcastServer", "PodcastServer\PodcastServer.csproj", "{C6916782-C008-4BEA-875A-5723DEE6ACFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7F47497-D527-48F7-BB0A-FA9D94888FA5}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadmeImages", "ReadmeImages", "{AD4A7960-ECCE-441E-B20A-C524D296CB4A}"
+	ProjectSection(SolutionItems) = preProject
+		ExampleImages\ClientExample1.png = ExampleImages\ClientExample1.png
+		ExampleImages\ClientExample2.png = ExampleImages\ClientExample2.png
+		ExampleImages\ClientManagementExample.png = ExampleImages\ClientManagementExample.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633811A5-8377-46D8-BF5F-3A70B80F62D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633811A5-8377-46D8-BF5F-3A70B80F62D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633811A5-8377-46D8-BF5F-3A70B80F62D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633811A5-8377-46D8-BF5F-3A70B80F62D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5DDBE0-A397-419E-8617-08C3AACDA1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5DDBE0-A397-419E-8617-08C3AACDA1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5DDBE0-A397-419E-8617-08C3AACDA1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5DDBE0-A397-419E-8617-08C3AACDA1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA7C312-435D-4CAE-AF34-2FA5A3038554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA7C312-435D-4CAE-AF34-2FA5A3038554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA7C312-435D-4CAE-AF34-2FA5A3038554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA7C312-435D-4CAE-AF34-2FA5A3038554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC7580B-3965-48DF-8B57-2DEDDD4AF7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC7580B-3965-48DF-8B57-2DEDDD4AF7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC7580B-3965-48DF-8B57-2DEDDD4AF7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC7580B-3965-48DF-8B57-2DEDDD4AF7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6916782-C008-4BEA-875A-5723DEE6ACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6916782-C008-4BEA-875A-5723DEE6ACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6916782-C008-4BEA-875A-5723DEE6ACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6916782-C008-4BEA-875A-5723DEE6ACFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD4A7960-ECCE-441E-B20A-C524D296CB4A} = {A7F47497-D527-48F7-BB0A-FA9D94888FA5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717D923D-9713-48ED-B5B8-82DCFB56E6E7}
+	EndGlobalSection
+EndGlobal

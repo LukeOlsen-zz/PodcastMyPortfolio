@@ -1,0 +1,2 @@
+cl1	PORT1	Agg 212A	Aggressive
+cl1	PORT2	Mod	Moderate

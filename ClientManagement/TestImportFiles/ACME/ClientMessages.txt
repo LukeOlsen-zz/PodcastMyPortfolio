@@ -1,0 +1,2 @@
+ACMECLIENT001	NEWS	Your new client packate has been put into the mail
+ACMECLIENT002	NEWS	Please contact your advisor at 503-555-1212 for an important message

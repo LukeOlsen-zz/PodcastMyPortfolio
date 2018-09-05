@@ -1,0 +1,3 @@
+cl1	NEWS	Your client setup will be complete in 5 days
+cl1	NEWS	Your client setup is complete
+cl1	NEWS	Watch for a new client packet to come to the mail

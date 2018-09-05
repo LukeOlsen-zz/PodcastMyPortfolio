@@ -1,0 +1,7 @@
+CODE11	MEMBER1	member jones	mjones@code.com
+CODE11	MEMBER2	member smith	msmith@code.com
+CODE11	MEMBER3	member john	mjohn@code.com
+CODEX	MEMBERX	xavier x	mx@codex.com
+CODE11	MEMBER2	member smith	msmith@code.com
+CODE09	MEMBER3	member john	mjohn@code.com
+	MEMBER444	MY NAME IS MUD	MDU@code.com
